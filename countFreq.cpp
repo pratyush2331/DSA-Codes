@@ -1,4 +1,9 @@
-// 
+// Count frequency of each element in the array
+
+/*
+Time Complexity: O(N*N)
+Space Complexity:  O(N)
+*/
 
 #include<iostream>
 #include<vector>
